@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieDatabaseCompose</string>
+    <string name="hintSearch">Film veya dizi adı giriniz</string>
+</resources>
